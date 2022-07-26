@@ -1,0 +1,440 @@
+[
+    {
+       "value":{
+          "label":"Abyssinian",
+          "value":"Abyssinian"
+       }
+    },
+    {
+       "value":{
+          "label":"American Bobtail Longhair",
+          "value":"American Bobtail Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"American Bobtail Shorthair",
+          "value":"American Bobtail Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"American Shorthair",
+          "value":"American Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"American Wirehair",
+          "value":"American Wirehair"
+       }
+    },
+    {
+       "value":{
+          "label":"Arabian Mau",
+          "value":"Arabian Mau"
+       }
+    },
+    {
+       "value":{
+          "label":"Asian Semi-long Hair",
+          "value":"Asian Semi-long Hair"
+       }
+    },
+    {
+       "value":{
+          "label":"Australian Mist",
+          "value":"Australian Mist"
+       }
+    },
+    {
+       "value":{
+          "label":"Bengal",
+          "value":"Bengal"
+       }
+    },
+    {
+       "value":{
+          "label":"Bobtail Japonês",
+          "value":"Bobtail Japonês"
+       }
+    },
+    {
+       "value":{
+          "label":"Bombaim",
+          "value":"Bombaim"
+       }
+    },
+    {
+       "value":{
+          "label":"Brazilian Shorthair",
+          "value":"Brazilian Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"British Longhair",
+          "value":"British Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"Burmês",
+          "value":"Burmês"
+       }
+    },
+    {
+       "value":{
+          "label":"California Spangled Cat",
+          "value":"California Spangled Cat"
+       }
+    },
+    {
+       "value":{
+          "label":"Chausie",
+          "value":"Chausie"
+       }
+    },
+    {
+       "value":{
+          "label":"Cornish Rex",
+          "value":"Cornish Rex"
+       }
+    },
+    {
+       "value":{
+          "label":"Curl Americano Pelo Curto",
+          "value":"Curl Americano Pelo Curto"
+       }
+    },
+    {
+       "value":{
+          "label":"Curl Americano Pelo Longo",
+          "value":"Curl Americano Pelo Longo"
+       }
+    },
+    {
+       "value":{
+          "label":"Cymric",
+          "value":"Cymric"
+       }
+    },
+    {
+       "value":{
+          "label":"Devon Rex",
+          "value":"Devon Rex"
+       }
+    },
+    {
+       "value":{
+          "label":"Domestic Long-Haired",
+          "value":"Domestic Long-Haired"
+       }
+    },
+    {
+       "value":{
+          "label":"Domestic Short-Haired",
+          "value":"Domestic Short-Haired"
+       }
+    },
+    {
+       "value":{
+          "label":"Don Sphynx",
+          "value":"Don Sphynx"
+       }
+    },
+    {
+       "value":{
+          "label":"Egyptian Mau",
+          "value":"Egyptian Mau"
+       }
+    },
+    {
+       "value":{
+          "label":"European",
+          "value":"European"
+       }
+    },
+    {
+       "value":{
+          "label":"Exotic Shorthair",
+          "value":"Exotic Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"German Rex",
+          "value":"German Rex"
+       }
+    },
+    {
+       "value":{
+          "label":"Havana",
+          "value":"Havana"
+       }
+    },
+    {
+       "value":{
+          "label":"Himalaio",
+          "value":"Himalaio"
+       }
+    },
+    {
+       "value":{
+          "label":"Khao Manee",
+          "value":"Khao Manee"
+       }
+    },
+    {
+       "value":{
+          "label":"Korat",
+          "value":"Korat"
+       }
+    },
+    {
+       "value":{
+          "label":"Kurilian Bobtail Longhair",
+          "value":"Kurilian Bobtail Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"Kurilian Bobtail Shorthair",
+          "value":"Kurilian Bobtail Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"LaPerm Longhair",
+          "value":"LaPerm Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"LaPerm Shorthair",
+          "value":"LaPerm Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"Maine Coon",
+          "value":"Maine Coon"
+       }
+    },
+    {
+       "value":{
+          "label":"Manx",
+          "value":"Manx"
+       }
+    },
+    {
+       "value":{
+          "label":"Mekong Bobtail",
+          "value":"Mekong Bobtail"
+       }
+    },
+    {
+       "value":{
+          "label":"Munchkin Longhair",
+          "value":"Munchkin Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"Munchkin Shorthair",
+          "value":"Munchkin Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"Nebelung",
+          "value":"Nebelung"
+       }
+    },
+    {
+       "value":{
+          "label":"Norwegian Forest Cat",
+          "value":"Norwegian Forest Cat"
+       }
+    },
+    {
+       "value":{
+          "label":"Ocicat",
+          "value":"Ocicat"
+       }
+    },
+    {
+       "value":{
+          "label":"Ojos Azules Shorthair",
+          "value":"Ojos Azules Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"Oriental Longhair",
+          "value":"Oriental Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"Oriental Shorthair",
+          "value":"Oriental Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"Persa",
+          "value":"Persa"
+       }
+    },
+    {
+       "value":{
+          "label":"Peterbald",
+          "value":"Peterbald"
+       }
+    },
+    {
+       "value":{
+          "label":"Pixiebob Longhair",
+          "value":"Pixiebob Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"Pixiebob Shorthair",
+          "value":"Pixiebob Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"Ragamuffin",
+          "value":"Ragamuffin"
+       }
+    },
+    {
+       "value":{
+          "label":"Ragdoll",
+          "value":"Ragdoll"
+       }
+    },
+    {
+       "value":{
+          "label":"Russo Azul",
+          "value":"Russo Azul"
+       }
+    },
+    {
+       "value":{
+          "label":"Sagrado da Birmânia",
+          "value":"Sagrado da Birmânia"
+       }
+    },
+    {
+       "value":{
+          "label":"Savannah Cat",
+          "value":"Savannah Cat"
+       }
+    },
+    {
+       "value":{
+          "label":"Scottish Fold",
+          "value":"Scottish Fold"
+       }
+    },
+    {
+       "value":{
+          "label":"Selkirk Rex Longhair",
+          "value":"Selkirk Rex Longhair"
+       }
+    },
+    {
+       "value":{
+          "label":"Selkirk Rex Shorthair",
+          "value":"Selkirk Rex Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"Serengeti",
+          "value":"Serengeti"
+       }
+    },
+    {
+       "value":{
+          "label":"Siamês",
+          "value":"Siamês"
+       }
+    },
+    {
+       "value":{
+          "label":"Siberian",
+          "value":"Siberian"
+       }
+    },
+    {
+       "value":{
+          "label":"Singapura",
+          "value":"Singapura"
+       }
+    },
+    {
+       "value":{
+          "label":"Snowshoe",
+          "value":"Snowshoe"
+       }
+    },
+    {
+       "value":{
+          "label":"Sokoke",
+          "value":"Sokoke"
+       }
+    },
+    {
+       "value":{
+          "label":"Somali",
+          "value":"Somali"
+       }
+    },
+    {
+       "value":{
+          "label":"Sphynx",
+          "value":"Sphynx"
+       }
+    },
+    {
+       "value":{
+          "label":"Thai",
+          "value":"Thai"
+       }
+    },
+    {
+       "value":{
+          "label":"Tonkinese Shorthair",
+          "value":"Tonkinese Shorthair"
+       }
+    },
+    {
+       "value":{
+          "label":"Toyger",
+          "value":"Toyger"
+       }
+    },
+    {
+       "value":{
+          "label":"Turkish Angorá",
+          "value":"Turkish Angorá"
+       }
+    },
+    {
+       "value":{
+          "label":"Turkish Van",
+          "value":"Turkish Van"
+       }
+    },
+    {
+       "value":{
+          "label":"York Chocolate",
+          "value":"York Chocolate"
+       }
+    }
+ ]

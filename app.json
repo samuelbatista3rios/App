@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "petsvita-v2",
+    "slug": "petsvita-v2",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.37",
+    "orientation": "portrait",
+    "icon": "./src/assets/logo-icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "br.com.petsvita",
+      "infoPlist": {
+        "NFCReaderUsageDescription": "Identificar o pet pelo app",
+        "NSCameraUsageDescription": "Enviar documentos para a plataforma"
+      }
+    },
+    "android": {
+      "package": "br.com.petsvita",
+      "permissions": [
+        "CAMERA_ROL"
+      ]
+    },
+    "notification": {
+      "icon": "./src/assets/iconPushNotification.png"
+    }
+  }
+}

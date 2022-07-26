@@ -1,0 +1,1082 @@
+[
+    {
+       "value":{
+          "label":"Affenpinscher",
+          "name":"Affenpinscher"
+       }
+    },
+    {
+       "value":{
+          "label":"Afghan Hound",
+          "name":"Afghan Hound"
+       }
+    },
+    {
+       "value":{
+          "label":"Airedale Terrier",
+          "name":"Airedale Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Akita",
+          "name":"Akita"
+       }
+    },
+    {
+       "value":{
+          "label":"Akita Americano",
+          "name":"Akita Americano"
+       }
+    },
+    {
+       "value":{
+          "label":"American Pit Bull Terrier",
+          "name":"American Pit Bull Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"American Staffordshire Terrier",
+          "name":"American Staffordshire Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Australian Shepherd",
+          "name":"Australian Shepherd"
+       }
+    },
+    {
+       "value":{
+          "label":"Basenji",
+          "name":"Basenji"
+       }
+    },
+    {
+       "value":{
+          "label":"Basset Fulvo da Bretanha",
+          "name":"Basset Fulvo da Bretanha"
+       }
+    },
+    {
+       "value":{
+          "label":"Basset Hound",
+          "name":"Basset Hound"
+       }
+    },
+    {
+       "value":{
+          "label":"Beagle",
+          "name":"Beagle"
+       }
+    },
+    {
+       "value":{
+          "label":"Beagle-Harrier",
+          "name":"Beagle-Harrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Bearded Collie",
+          "name":"Bearded Collie"
+       }
+    },
+    {
+       "value":{
+          "label":"Bedlington Terrier",
+          "name":"Bedlington Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Bernese Mountain Dog",
+          "name":"Bernese Mountain Dog"
+       }
+    },
+    {
+       "value":{
+          "label":"Bichon Bolonhês",
+          "name":"Bichon Bolonhês"
+       }
+    },
+    {
+       "value":{
+          "label":"Bichon Frisé",
+          "name":"Bichon Frisé"
+       }
+    },
+    {
+       "value":{
+          "label":"Bichon Havanês",
+          "name":"Bichon Havanês"
+       }
+    },
+    {
+       "value":{
+          "label":"Boerboel",
+          "name":"Boerboel"
+       }
+    },
+    {
+       "value":{
+          "label":"Boiadeiro de Entlebuch",
+          "name":"Boiadeiro de Entlebuch"
+       }
+    },
+    {
+       "value":{
+          "label":"Border Collie",
+          "name":"Border Collie"
+       }
+    },
+    {
+       "value":{
+          "label":"Border Terrier",
+          "name":"Border Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Borzoi",
+          "name":"Borzoi"
+       }
+    },
+    {
+       "value":{
+          "label":"Boston Terrier",
+          "name":"Boston Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Bouvier de Flandres",
+          "name":"Bouvier de Flandres"
+       }
+    },
+    {
+       "value":{
+          "label":"Boxer",
+          "name":"Boxer"
+       }
+    },
+    {
+       "value":{
+          "label":"Braco Alemão Pelo Curto",
+          "name":"Braco Alemão Pelo Curto"
+       }
+    },
+    {
+       "value":{
+          "label":"Braco Alemão Pelo Duro",
+          "name":"Braco Alemão Pelo Duro"
+       }
+    },
+    {
+       "value":{
+          "label":"Braco Italiano",
+          "name":"Braco Italiano"
+       }
+    },
+    {
+       "value":{
+          "label":"Buldogue Americano",
+          "name":"Buldogue Americano"
+       }
+    },
+    {
+       "value":{
+          "label":"Buldogue Francês",
+          "name":"Buldogue Francês"
+       }
+    },
+    {
+       "value":{
+          "label":"Buldogue Inglês",
+          "name":"Buldogue Inglês"
+       }
+    },
+    {
+       "value":{
+          "label":"Bull Terrier",
+          "name":"Bull Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Bullmastiff",
+          "name":"Bullmastiff"
+       }
+    },
+    {
+       "value":{
+          "label":"Cairn Terrier",
+          "name":"Cairn Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Cane Corso",
+          "name":"Cane Corso"
+       }
+    },
+    {
+       "value":{
+          "label":"Cão de Crista Chinês",
+          "name":"Cão de Crista Chinês"
+       }
+    },
+    {
+       "value":{
+          "label":"Cão de Santo Humberto",
+          "name":"Cão de Santo Humberto"
+       }
+    },
+    {
+       "value":{
+          "label":"Cão D’água Espanhol",
+          "name":"Cão D’água Espanhol"
+       }
+    },
+    {
+       "value":{
+          "label":"Cão D’água Português",
+          "name":"Cão D’água Português"
+       }
+    },
+    {
+       "value":{
+          "label":"Cão Lobo Checoslovaco",
+          "name":"Cão Lobo Checoslovaco"
+       }
+    },
+    {
+       "value":{
+          "label":"Cão Pelado Mexicano",
+          "name":"Cão Pelado Mexicano"
+       }
+    },
+    {
+       "value":{
+          "label":"Cão Pelado Peruano",
+          "name":"Cão Pelado Peruano"
+       }
+    },
+    {
+       "value":{
+          "label":"Cavalier King Charles Spaniel",
+          "name":"Cavalier King Charles Spaniel"
+       }
+    },
+    {
+       "value":{
+          "label":"Cesky Terrier",
+          "name":"Cesky Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Chesapeake Bay Retriever",
+          "name":"Chesapeake Bay Retriever"
+       }
+    },
+    {
+       "value":{
+          "label":"Chihuahua",
+          "name":"Chihuahua"
+       }
+    },
+    {
+       "value":{
+          "label":"Chin",
+          "name":"Chin"
+       }
+    },
+    {
+       "value":{
+          "label":"Chow-chow Pelo Curto",
+          "name":"Chow-chow Pelo Curto"
+       }
+    },
+    {
+       "value":{
+          "label":"Chow-chow Pelo Longo",
+          "name":"Chow-chow Pelo Longo"
+       }
+    },
+    {
+       "value":{
+          "label":"Cirneco do Etna",
+          "name":"Cirneco do Etna"
+       }
+    },
+    {
+       "value":{
+          "label":"Clumber Spaniel",
+          "name":"Clumber Spaniel"
+       }
+    },
+    {
+       "value":{
+          "label":"Cocker Spaniel Americano",
+          "name":"Cocker Spaniel Americano"
+       }
+    },
+    {
+       "value":{
+          "label":"Cocker Spaniel Inglês",
+          "name":"Cocker Spaniel Inglês"
+       }
+    },
+    {
+       "value":{
+          "label":"Collie pelo longo",
+          "name":"Collie pelo longo"
+       }
+    },
+    {
+       "value":{
+          "label":"Coton de Tulear",
+          "name":"Coton de Tulear"
+       }
+    },
+    {
+       "value":{
+          "label":"Dachshund Teckel - Pelo Curto",
+          "name":"Dachshund Teckel - Pelo Curto"
+       }
+    },
+    {
+       "value":{
+          "label":"Dálmata",
+          "name":"Dálmata"
+       }
+    },
+    {
+       "value":{
+          "label":"Dandie Dinmont Terrier",
+          "name":"Dandie Dinmont Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Dobermann",
+          "name":"Dobermann"
+       }
+    },
+    {
+       "value":{
+          "label":"Dogo Argentino",
+          "name":"Dogo Argentino"
+       }
+    },
+    {
+       "value":{
+          "label":"Dogo Canário",
+          "name":"Dogo Canário"
+       }
+    },
+    {
+       "value":{
+          "label":"Dogue Alemão",
+          "name":"Dogue Alemão"
+       }
+    },
+    {
+       "value":{
+          "label":"Dogue de Bordeaux",
+          "name":"Dogue de Bordeaux"
+       }
+    },
+    {
+       "value":{
+          "label":"Elkhound Norueguês Cinza",
+          "name":"Elkhound Norueguês Cinza"
+       }
+    },
+    {
+       "value":{
+          "label":"Fila Brasileiro",
+          "name":"Fila Brasileiro"
+       }
+    },
+    {
+       "value":{
+          "label":"Flat-Coated Retriever",
+          "name":"Flat-Coated Retriever"
+       }
+    },
+    {
+       "value":{
+          "label":"Fox Terrier Pelo Duro ",
+          "name":"Fox Terrier Pelo Duro "
+       }
+    },
+    {
+       "value":{
+          "label":"Fox Terrier Pelo Liso",
+          "name":"Fox Terrier Pelo Liso"
+       }
+    },
+    {
+       "value":{
+          "label":"Foxhound Inglês",
+          "name":"Foxhound Inglês"
+       }
+    },
+    {
+       "value":{
+          "label":"Galgo Espanhol",
+          "name":"Galgo Espanhol"
+       }
+    },
+    {
+       "value":{
+          "label":"Golden Retriever",
+          "name":"Golden Retriever"
+       }
+    },
+    {
+       "value":{
+          "label":"Grande Münsterländer",
+          "name":"Grande Münsterländer"
+       }
+    },
+    {
+       "value":{
+          "label":"Greyhound",
+          "name":"Greyhound"
+       }
+    },
+    {
+       "value":{
+          "label":"Griffon Belga",
+          "name":"Griffon Belga"
+       }
+    },
+    {
+       "value":{
+          "label":"Griffon de Bruxelas",
+          "name":"Griffon de Bruxelas"
+       }
+    },
+    {
+       "value":{
+          "label":"Husky Siberiano",
+          "name":"Husky Siberiano"
+       }
+    },
+    {
+       "value":{
+          "label":"Ibizan Hound",
+          "name":"Ibizan Hound"
+       }
+    },
+    {
+       "value":{
+          "label":"Irish Soft Coated Wheaten Terrier",
+          "name":"Irish Soft Coated Wheaten Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Irish Wolfhound",
+          "name":"Irish Wolfhound"
+       }
+    },
+    {
+       "value":{
+          "label":"Jack Russell Terrier",
+          "name":"Jack Russell Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Kerry Blue Terrier",
+          "name":"Kerry Blue Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Komondor",
+          "name":"Komondor"
+       }
+    },
+    {
+       "value":{
+          "label":"Kuvasz",
+          "name":"Kuvasz"
+       }
+    },
+    {
+       "value":{
+          "label":"Labrador Retriever",
+          "name":"Labrador Retriever"
+       }
+    },
+    {
+       "value":{
+          "label":"Lagotto Romagnolo",
+          "name":"Lagotto Romagnolo"
+       }
+    },
+    {
+       "value":{
+          "label":"Lakeland Terrier",
+          "name":"Lakeland Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Leonberger",
+          "name":"Leonberger"
+       }
+    },
+    {
+       "value":{
+          "label":"Lhasa Apso",
+          "name":"Lhasa Apso"
+       }
+    },
+    {
+       "value":{
+          "label":"Malamute do Alasca",
+          "name":"Malamute do Alasca"
+       }
+    },
+    {
+       "value":{
+          "label":"Maltês",
+          "name":"Maltês"
+       }
+    },
+    {
+       "value":{
+          "label":"Mastiff",
+          "name":"Mastiff"
+       }
+    },
+    {
+       "value":{
+          "label":"Mastim Espanhol",
+          "name":"Mastim Espanhol"
+       }
+    },
+    {
+       "value":{
+          "label":"Mastino Napoletano",
+          "name":"Mastino Napoletano"
+       }
+    },
+    {
+       "value":{
+          "label":"Mudi",
+          "name":"Mudi"
+       }
+    },
+    {
+       "value":{
+          "label":"Nordic Spitz",
+          "name":"Nordic Spitz"
+       }
+    },
+    {
+       "value":{
+          "label":"Norfolk Terrier",
+          "name":"Norfolk Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Norwich Terrier",
+          "name":"Norwich Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Old English Sheepdog",
+          "name":"Old English Sheepdog"
+       }
+    },
+    {
+       "value":{
+          "label":"Papillon",
+          "name":"Papillon"
+       }
+    },
+    {
+       "value":{
+          "label":"Parson Russell Terrier",
+          "name":"Parson Russell Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Alemão",
+          "name":"Pastor Alemão"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Beauceron",
+          "name":"Pastor Beauceron"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Belga",
+          "name":"Pastor Belga"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Bergamasco",
+          "name":"Pastor Bergamasco"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Branco Suíço",
+          "name":"Pastor Branco Suíço"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Briard",
+          "name":"Pastor Briard"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor da Ásia Central",
+          "name":"Pastor da Ásia Central"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor de Shetland",
+          "name":"Pastor de Shetland"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor dos Pirineus",
+          "name":"Pastor dos Pirineus"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Maremano Abruzês",
+          "name":"Pastor Maremano Abruzês"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Polonês",
+          "name":"Pastor Polonês"
+       }
+    },
+    {
+       "value":{
+          "label":"Pastor Polonês da Planície",
+          "name":"Pastor Polonês da Planície"
+       }
+    },
+    {
+       "value":{
+          "label":"Pequeno Basset Griffon da Vendéia",
+          "name":"Pequeno Basset Griffon da Vendéia"
+       }
+    },
+    {
+       "value":{
+          "label":"Pequeno Cão Leão",
+          "name":"Pequeno Cão Leão"
+       }
+    },
+    {
+       "value":{
+          "label":"Pequeno Lebrel Italiano",
+          "name":"Pequeno Lebrel Italiano"
+       }
+    },
+    {
+       "value":{
+          "label":"Pequinês",
+          "name":"Pequinês"
+       }
+    },
+    {
+       "value":{
+          "label":"Perdigueiro Português",
+          "name":"Perdigueiro Português"
+       }
+    },
+    {
+       "value":{
+          "label":"Petit Brabançon",
+          "name":"Petit Brabançon"
+       }
+    },
+    {
+       "value":{
+          "label":"Pharaoh Hound",
+          "name":"Pharaoh Hound"
+       }
+    },
+    {
+       "value":{
+          "label":"Pinscher Miniatura",
+          "name":"Pinscher Miniatura"
+       }
+    },
+    {
+       "value":{
+          "label":"Pitbull",
+          "name":"Pitbull"
+       }
+    },
+    {
+       "value":{
+          "label":"Podengo Canário",
+          "name":"Podengo Canário"
+       }
+    },
+    {
+       "value":{
+          "label":"Podengo Português",
+          "name":"Podengo Português"
+       }
+    },
+    {
+       "value":{
+          "label":"Pointer Inglês",
+          "name":"Pointer Inglês"
+       }
+    },
+    {
+       "value":{
+          "label":"Poodle Anão",
+          "name":"Poodle Anão"
+       }
+    },
+    {
+       "value":{
+          "label":"Poodle Médio",
+          "name":"Poodle Médio"
+       }
+    },
+    {
+       "value":{
+          "label":"Poodle Standard",
+          "name":"Poodle Standard"
+       }
+    },
+    {
+       "value":{
+          "label":"Poodle Toy",
+          "name":"Poodle Toy"
+       }
+    },
+    {
+       "value":{
+          "label":"Pug",
+          "name":"Pug"
+       }
+    },
+    {
+       "value":{
+          "label":"Puli",
+          "name":"Puli"
+       }
+    },
+    {
+       "value":{
+          "label":"Pumi",
+          "name":"Pumi"
+       }
+    },
+    {
+       "value":{
+          "label":"Rhodesian Ridgeback",
+          "name":"Rhodesian Ridgeback"
+       }
+    },
+    {
+       "value":{
+          "label":"Rottweiler",
+          "name":"Rottweiler"
+       }
+    },
+    {
+       "value":{
+          "label":"Saluki",
+          "name":"Saluki"
+       }
+    },
+    {
+       "value":{
+          "label":"Samoieda",
+          "name":"Samoieda"
+       }
+    },
+    {
+       "value":{
+          "label":"São Bernardo",
+          "name":"São Bernardo"
+       }
+    },
+    {
+       "value":{
+          "label":"Schipperke",
+          "name":"Schipperke"
+       }
+    },
+    {
+       "value":{
+          "label":"Schnauzer",
+          "name":"Schnauzer"
+       }
+    },
+    {
+       "value":{
+          "label":"Schnauzer Gigante",
+          "name":"Schnauzer Gigante"
+       }
+    },
+    {
+       "value":{
+          "label":"Schnauzer Miniatura",
+          "name":"Schnauzer Miniatura"
+       }
+    },
+    {
+       "value":{
+          "label":"Scottish Terrier",
+          "name":"Scottish Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Sealyham Terrier",
+          "name":"Sealyham Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Setter Gordon",
+          "name":"Setter Gordon"
+       }
+    },
+    {
+       "value":{
+          "label":"Setter Inglês",
+          "name":"Setter Inglês"
+       }
+    },
+    {
+       "value":{
+          "label":"Setter Irlandês Vermelho",
+          "name":"Setter Irlandês Vermelho"
+       }
+    },
+    {
+       "value":{
+          "label":"Setter Irlandês Vermelho e Branco",
+          "name":"Setter Irlandês Vermelho e Branco"
+       }
+    },
+    {
+       "value":{
+          "label":"Shar-pei",
+          "name":"Shar-pei"
+       }
+    },
+    {
+       "value":{
+          "label":"Shiba",
+          "name":"Shiba"
+       }
+    },
+    {
+       "value":{
+          "label":"Shih-Tzu",
+          "name":"Shih-Tzu"
+       }
+    },
+    {
+       "value":{
+          "label":"Silky Terrier Australiano",
+          "name":"Silky Terrier Australiano"
+       }
+    },
+    {
+       "value":{
+          "label":"Skye Terrier",
+          "name":"Skye Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Smoushond Holandês",
+          "name":"Smoushond Holandês"
+       }
+    },
+    {
+       "value":{
+          "label":"Spaniel Bretão",
+          "name":"Spaniel Bretão"
+       }
+    },
+    {
+       "value":{
+          "label":"Spinone Italiano",
+          "name":"Spinone Italiano"
+       }
+    },
+    {
+       "value":{
+          "label":"Spitz Alemão Anão",
+          "name":"Spitz Alemão Anão"
+       }
+    },
+    {
+       "value":{
+          "label":"Spitz Finlandês",
+          "name":"Spitz Finlandês"
+       }
+    },
+    {
+       "value":{
+          "label":"Spitz Japonês Anão",
+          "name":"Spitz Japonês Anão"
+       }
+    },
+    {
+       "value":{
+          "label":"Springer Spaniel Inglês",
+          "name":"Springer Spaniel Inglês"
+       }
+    },
+    {
+       "value":{
+          "label":"Stabyhoun",
+          "name":"Stabyhoun"
+       }
+    },
+    {
+       "value":{
+          "label":"Staffordshire Bull Terrier",
+          "name":"Staffordshire Bull Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Terra Nova",
+          "name":"Terra Nova"
+       }
+    },
+    {
+       "value":{
+          "label":"Terrier Alemão de caça Jagd",
+          "name":"Terrier Alemão de caça Jagd"
+       }
+    },
+    {
+       "value":{
+          "label":"Terrier Brasileiro",
+          "name":"Terrier Brasileiro"
+       }
+    },
+    {
+       "value":{
+          "label":"Terrier Irlandês de Glen do Imaal",
+          "name":"Terrier Irlandês de Glen do Imaal"
+       }
+    },
+    {
+       "value":{
+          "label":"Terrier Preto da Rússia",
+          "name":"Terrier Preto da Rússia"
+       }
+    },
+    {
+       "value":{
+          "label":"Tibetan Terrier",
+          "name":"Tibetan Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Tosa Inu",
+          "name":"Tosa Inu"
+       }
+    },
+    {
+       "value":{
+          "label":"Vira-Lata",
+          "name":"Vira-Lata"
+       }
+    },
+    {
+       "value":{
+          "label":"Vizsla",
+          "name":"Vizsla"
+       }
+    },
+    {
+       "value":{
+          "label":"Volpino Italiano",
+          "name":"Volpino Italiano"
+       }
+    },
+    {
+       "value":{
+          "label":"Weimaraner",
+          "name":"Weimaraner"
+       }
+    },
+    {
+       "value":{
+          "label":"Welsh Corgi Cardigan",
+          "name":"Welsh Corgi Cardigan"
+       }
+    },
+    {
+       "value":{
+          "label":"Welsh Corgi Pembroke",
+          "name":"Welsh Corgi Pembroke"
+       }
+    },
+    {
+       "value":{
+          "label":"Welsh Springer Spaniel",
+          "name":"Welsh Springer Spaniel"
+       }
+    },
+    {
+       "value":{
+          "label":"Welsh Terrier",
+          "name":"Welsh Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"West Highland White Terrier",
+          "name":"West Highland White Terrier"
+       }
+    },
+    {
+       "value":{
+          "label":"Whippet",
+          "name":"Whippet"
+       }
+    },
+    {
+       "value":{
+          "label":"Yorkshire Terrier",
+          "name":"Yorkshire Terrier"
+       }
+    }
+ ]
